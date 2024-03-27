@@ -1,4 +1,4 @@
-# GitHub_Actions_Self_Hosted_Runner
+# GitHub_Actions_Self_Hosted_Runner on AWS EC2 Instances
 
 Repository to kick start your journey with GitHub Actions
 
@@ -89,7 +89,7 @@ every push to the repository and execute a  simple build script on the self-host
 
 ![image](https://github.com/Siddhartha082/GitHub_Actions_Self_Hosted_Runner/assets/110781138/7757ca9c-770a-4195-b7ec-a6ece0a6b2d5)
 
-# My repo - https://github.com/Siddhartha082/GitHub_Actions_Self_Hosted_Runner
+# My repo - https://github.com/Siddhartha082/GitHub_Actions_Self_Hosted_Runner_On_AWS_EC2_Instances
 
 ![image](https://github.com/Siddhartha082/GitHub_Actions_Self_Hosted_Runner/assets/110781138/b6c78835-86d0-4c61-ad5c-807ce4422527)
 
